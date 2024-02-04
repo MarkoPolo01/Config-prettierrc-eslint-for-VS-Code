@@ -6,7 +6,7 @@ Config prettierrc + eslint
 там в качестве дефолтного форматера впишите prettier  
 `"editor.defaultFormatter": "esbenp.prettier-vscode" `
 
-C помощью Ctrl  , зайдите в настройки
+C помощью Ctrl +  , зайдите в настройки
 В поиске наберите `auto save` в пункте Files: Auto Save выберите  onFocusChange - это необходимо для сохранения файла при потере фокуса файла
 
 наберите `format on` и поставьте галочку в чексбоксе Editor: Format On Save - так при сохранении файла будут применяться правила из конфига Prettierrc
